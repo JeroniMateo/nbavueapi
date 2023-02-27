@@ -15,15 +15,15 @@ const routes = [
     name: 'Games',
     component: Games
   },  {
-    path: '/',
+    path: '/players',
     name: 'players',
     component: Players
   },  {
-    path: '/',
+    path: '/teams',
     name: 'teams',
     component: Teams
   },  {
-    path: '/',
+    path: '/stats',
     name: 'stats',
     component: Stats
   }
